@@ -1,2 +1,10 @@
 ACKNOWLEDGEMENT
 This work has been supported by the Thailand Research Fund through the Research Grant for New Scholar Program under Grant No. MRG6080146. The authors acknowledge with grateful for the resources provided by the Institute of Research and Development Rajamangala University of Technology Rattanakosin.
+
+
+
+This research was supported by the Institute of Research and Development, Rajamangala University of Technology Rattanakosin (Grant No.   ).
+
+In addition, the authors would like to thank Mr.Voravot Boontong, Hydrologic Instrument Standards Branch Chief, working in Hydrology Division, Bureau of Water Management and Hydrology for all his help and suggestions. 
+
+Thankfulness to the supporters : Mr.Jetsdaporn Satansup, Mr.Ruangsimon Jamkrajang and Mr.Pawaritsorn Chaisong for all their support throughout the period of this research.
