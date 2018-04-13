@@ -1,0 +1,28 @@
+Website : http://rmutcon2018.rmutsv.ac.th/th/
+
+สาขาวิชาวิศวกรรมการวัดคุม คณะวิศวกรรมศาสตร์
+มหาวิทยาลัยเทคโนโลยีราชมงคลรัตนโกสินทร์ 
+96 หมู่ 3 ถนน พุทธมณฑล สาย5 ตำบล ศาลายา อำเภอ พุทธมณฑล จังหวัด นครปฐม 73170 
+โทร 02-441-6000 ต่อ 2001,2002 แฟกซ์ 02-889-4588 
+
+Department of Instrumentation Engineering, Faculty of Engineering, 
+Rajamangala University of Technology Rattanakosin, 
+96 Moo 3 Thanon Phutthamonthon Sai 5 Salaya Phutthamonthon Nakhon Pathom 73170 
+Tel: +66 2-441-6000 , +66 2-889-4585-7 ext. 2001,2002 Fax: +66 2-889-4588 
+
+การออกแบบเครื่องวัดความเร็วของกระแสน้ำในลุ่มแม่น้ำ โดยใช้ Arduino 
+Design of a Flow Velocity Meter for Tides in the River Using Arduino
+
+กรมชลประทาน มีหน้าที่บริหารจัดการน้ำที่มีอยู๋ในประเทศไทย เครื่องมือวัดหลายชนิดถูกนำมาใช้ในการอ่านข้อมูล เพื่อให้ได้มาซึ่งข้อมูลทางอุทกวิทยาที่จำเป็น 
+ในส่วนของการวัดความเร็วของกระแสน้ำ เครื่องมือที่กรมชลประทานใช้ คือ เครื่องมือวัดความเร็วของกระแสน้ำ A-OTT C31 ร่วมกับ เครื่องบอกสัญญาณเสียงและตัวเลข แบบ Z 41-00 
+โดยเริ่มใช้งานมาตั้งแต่ปี พ.ศ. 2531 จนถึงปัจจุบันปี พ.ศ. 2561 มีอายุการใช้งานมากถึง 30 ปีแล้ว
+งานวิจัยนี้นำเสนอการออกแบบเครื่องวัดความเร็วของกระแสน้ำในลุ่มแม่น้ำ โดยใช้ Arduino เพื่อนำมาใช้งานทดแทนเครื่องบอกสัญญาณเสียงและตัวเลข แบบ Z 41-00 ที่เสียหาย 
+ผลจากออกแบบและทดลองแสดงให้เห็นถึง ความสามารถในการใช้งานร่วมกันได้กับเครื่องมือวัดความเร็วของกระแสน้ำ A-OTT C31 และ ความถูกต้องของข้อมูลที่ได้รับจากเครื่องมือที่ได้ออกแบบขึ้น
+
+
+The Royal Irrigation Department is responsible for managing water availability in Thailand. Many instruments are used to read the data to obtain the needed hydrological data. 
+The instruments that it has applied to measure the velocity of the tide are the flow velocity meters A-OTT C31 that compatible with the audio and numerical displayer Z 41-00. 
+They have been used for 30 years, (1988 - 2018). 
+
+Design of a flow velocity meter for tides in the river using Arduino was presented in this paper. It was designed to use as a substitute for the audio and numerical displayer Z 41-00 that were broken. 
+The result of the design and the experimentation show the ability of working together with the flow velocity meters A-OTT C31 and the accuracy of the data acquired from this designed instrument are satisfactory. 
