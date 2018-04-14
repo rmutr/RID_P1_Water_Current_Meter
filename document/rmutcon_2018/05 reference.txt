@@ -1,11 +1,4 @@
-Reference
-
-1.  ¡.ª.ª, A ñ OTT C31, ÕÕπ‰≈πÏ [¡’π“§¡ 2560],  ◊∫§Èπ®“°:http://www.ott.com/products.
-2.  ‡Õ°™—¬ ¡–°“√, ‡√’¬π√ŸÈ‡¢È“„®„™Èß“π‰¡‚§√§Õπ‚∑√≈‡≈Õ√Ïµ√–°Ÿ≈ AVR ¥È«¬ Arduino. æ‘¡æÏ§√—Èß∑’Ë 1. ∫√‘…—∑ Õ’∑’∑’ ®”°—¥ : °√ÿß‡∑æœ, 2552.
-3.  ª√“‚¡∑ æ≈æ≥–π“«’, À≈—°°“√§”π«≥πÈ”ºË“πÕ“§“√™≈ª√–∑“π, °√ÿß‡∑æœ:  ”π—°°√¡ ™≈ª√–∑“π∑’Ë 8, 2554.
-4.  √». °’√µ‘ ≈’«—®π°ÿ≈, Õÿ∑°«‘∑¬“, æ‘¡æÏ§√—Èß∑’Ë1, °√ÿß‡∑æœ:  ”π—°æ‘¡æÏ¡À“«‘∑¬“≈—¬√—ß ‘µ, 2543.
-
-
+﻿Reference
 
 1. OTT Hydromet. 2017. A-OTT C31 [Online]. Available: http://www.ott.com/products.
 2. Makarn, Eakachai. 2009. Learn Understand and Use the AVR Micro controller family with Arduino. Bangkok: ETT Co., Ltd. (in Thai)
