@@ -1,3 +1,5 @@
+// Board : Arduino DUE
+
 #define PIN_LED_PROCESS       13
 #define PIN_PULSEIN           10
 
