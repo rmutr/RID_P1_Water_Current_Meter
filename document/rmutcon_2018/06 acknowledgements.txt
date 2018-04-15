@@ -1,4 +1,5 @@
-ACKNOWLEDGEMENT
+Acknowledgements
+
 This work has been supported by the Thailand Research Fund through the Research Grant for New Scholar Program under Grant No. MRG6080146. The authors acknowledge with grateful for the resources provided by the Institute of Research and Development Rajamangala University of Technology Rattanakosin.
 
 

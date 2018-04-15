@@ -1,4 +1,5 @@
-﻿Reference
+﻿References
+
 1. OTT Hydromet. 2017. A-OTT C31 [Online]. Available: http://www.ott.com/products.
 2. Makarn, Eakachai. 2009. Learn Understand and Use the AVR Micro controller family with Arduino. Bangkok: ETT Co., Ltd. (in Thai)
    เอกชัย มะการ. 2552. เรียนรู้ เข้าใจ ใช้งานไมโครคอนโทรลเลอร์ตระกูล AVR ด้วย Arduino. กรุงเทพมหานคร: บริษัท อีทีที จำกัด.
