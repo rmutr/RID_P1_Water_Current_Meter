@@ -1,6 +1,8 @@
-﻿conclusions
+conclusions
 
     จากทดลองแสดงให้เห็นว่า เครื่องต้นแบบที่ได้ออกแบบขึ้นนี้ สามารถอ่านค่าความถี่ในย่านที่ทำการทดสอบทั้ง 4 ย่านได้อย่าถูกต้อง 
 และการนำไปใช้กับเครื่องมือวัดความเร็วของกระแสน้ำ A-OTT C31 เพื่อใช้งานทดแทนเครื่องบอกสัญญาณเสียงและตัวเลข แบบ Z 41-00 ที่เสียหาย 
 ก็สามารถทำได้โดยง่ายด้วยการต่อสายสัญญาณเพียง 2 เส้นเท่านั้น 
 จากต้นแบบที่ได้จากงานวิจัยชิ้นนี้จะถูกพัฒนาต่อยอดเป็นเครื่องมือที่สามารถใช้งานจริงในภาคสนามต่อไปในอนาคต
+
+The results of experiment show that this designed prototype can read four tested areas of the frequency range properly well. The application of this prototype will be applied to the A-OTT c31, the current flow meter, for replacing the damaged Z 41-00, the counter which is used to display as an audio and numerical output. It can be done simply by connecting only two wires. The prototype of this research will be developed as a tool to be used in fieldwork in the future.

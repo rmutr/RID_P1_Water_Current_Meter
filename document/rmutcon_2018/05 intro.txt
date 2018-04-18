@@ -1,15 +1,29 @@
 Introduction
 
-    㹡���Ѵ�������ǡ���ʹ�� ����ͧ��ͷ��١��㹡���Ѵ�������Ǣͧ����ʹ���� 2 Ẻ��� 
-    1 ����ͧ����Ѵ����ʹ���ԧ�� (Mechanical current meters) ���ػ�ó����ա�÷ӧҹ�ԧ������ǹ��Сͺ��ѡ 
-������ͧ��ͨ��ա������ͧ���������ա���ʹ����ż�ҹ ����������¡ѹ 3 ��Դ ���� 
-        1.1 ����ͧ����Ѵ����ա����ع�ͺ᡹��� (Vertical axis)
-        1.2 ����ͧ����Ѵ����ա����ع�ͺ᡹�͹ (Horizontal axis)
+    „π°“√«—¥§«“¡‡√Á«°√–· πÈ” ‡§√◊ËÕß¡◊Õ∑’Ë∂Ÿ°„™È„π°“√«—¥§«“¡‡√Á«¢Õß°√–· πÈ”¡’ 2 ·∫∫§◊Õ 
+    1 ‡§√◊ËÕß¡◊Õ«—¥°√–· πÈ”‡™‘ß°≈ (Mechanical current meters) ‡ªÁπÕÿª°√≥Ï∑’Ë¡’°“√∑”ß“π‡™‘ß°≈‡ªÁπ Ë«πª√–°Õ∫À≈—° 
+‚¥¬‡§√◊ËÕß¡◊Õ®–¡’°“√‡§√◊ËÕß‰À«‡¡◊ËÕ¡’°√–· πÈ”‰À≈ºË“π ‚¥¬¡’Õ¬ŸË¥È«¬°—π 3 ™π‘¥ ‰¥È·°Ë 
+        1.1 ‡§√◊ËÕß¡◊Õ«—¥∑’Ë¡’°“√À¡ÿπ√Õ∫·°πµ—Èß (Vertical axis)
+        1.2 ‡§√◊ËÕß¡◊Õ«—¥∑’Ë¡’°“√À¡ÿπ√Õ∫·°ππÕπ (Horizontal axis)
         1.3 Pendulum current meters 
-    2 ����ͧ����Ѵ����ʹ������礷�͹ԡ�� (Electronic current meters) ���ػ�ó����ա�÷ӧҹ�����к�����礷�͹ԡ������ǹ��Сͺ��ѡ
-������ͧ��ͪ�Դ���зӧҹ��ա�������ͧ����Ѵ����ʹ���ԧ�� ����������¡ѹ 3 ��Դ ����
+    2 ‡§√◊ËÕß¡◊Õ«—¥°√–· πÈ”Õ‘‡≈Á§∑√Õπ‘° Ï (Electronic current meters) ‡ªÁπÕÿª°√≥Ï∑’Ë¡’°“√∑”ß“π¥È«¬√–∫∫Õ‘‡≈Á§∑√Õπ‘° Ï‡ªÁπ Ë«πª√–°Õ∫À≈—°
+‚¥¬‡§√◊ËÕß¡◊Õ™π‘¥π’È®–∑”ß“π‰¥È¥’°«Ë“‡§√◊ËÕß¡◊Õ«—¥°√–· πÈ”‡™‘ß°≈ ‚¥¬¡’Õ¬ŸË¥È«¬°—π 3 ™π‘¥ ‰¥È·°Ë
         2.1 Electromagnetic current meters
         2.2 Doppler type current meters
         2.3 Optical strobe current meters
-    ����ͧ��ͷ�����Ż�зҹ�� ��� ����ͧ����Ѵ�������Ǣͧ����ʹ�� A-OTT C31 �����Ѻ ����ͧ�͡�ѭ�ҳ���§��е���Ţ Ẻ Z 41-00 
-�� ����ͧ����Ѵ�������Ǣͧ����ʹ�� A-OTT C31 �����Ẻ ����ͧ����Ѵ����ʹ���ԧ�� (Mechanical current meters) Ẻ����ա����ع�ͺ᡹�͹ (Horizontal axis)
+    ‡§√◊ËÕß¡◊Õ∑’Ë°√¡™≈ª√–∑“π„™È §◊Õ ‡§√◊ËÕß¡◊Õ«—¥§«“¡‡√Á«¢Õß°√–· πÈ” A-OTT C31 √Ë«¡°—∫ ‡§√◊ËÕß∫Õ° —≠≠“≥‡ ’¬ß·≈–µ—«‡≈¢ ·∫∫ Z 41-00 
+‚¥¬ ‡§√◊ËÕß¡◊Õ«—¥§«“¡‡√Á«¢Õß°√–· πÈ” A-OTT C31 π—Èπ‡ªÁπ·∫∫ ‡§√◊ËÕß¡◊Õ«—¥°√–· πÈ”‡™‘ß°≈ (Mechanical current meters) ·∫∫∑’Ë¡’°“√À¡ÿπ√Õ∫·°ππÕπ (Horizontal axis)
+
+
+
+
+The water current velocities are measured by the tools that measure the speed of the tide and they are classified into two types.
+  1. Mechanical current meters are mechanical devices that are the main components. The tools will move when the current flows and there are three types.
+	1.1 Vertical axis current meters
+	1.2 Horizontal axis current meters
+	1.3 Pendulum current meters
+  2. Electronic current meters are electronic devices that work primarily on electronic devices. These tools work better than mechanical current meters and there are three types.
+	2.1 Electromagnetic velocity meters
+	2.2 Doppler velocity meters
+	2.3 Optical strobe velocity meters
+The tools that have been used by the Irrigation Department are A-OTT C31, the current flow meters, with Z 41-00, audio and numerical indicators. The A-OTT C31 current flow meter is mechanical current meter that is the type of horizontal axis current meter. 
