@@ -1,14 +1,4 @@
 Results and discussions 
 
-    ทำการทดลองโดยป้อนสัญญาณความถี่ด้วย Function Generator ที่ความถี่ 20 Hz, 200 Hz, 1 kHz และ 2 kHz 
-จากนั้นทำการวัดสัญญาณที่ถูกส่งออกมาด้วย Oscilloscope และ Arduino เพื่อทำการเปรียบเทียบผล 
-ผลการวัดสัญญาณที่ได้จาก Oscilloscope จะถูกบันทึกเป็นรูปภาพแสดงภาพหน้าจอขณะที่ทำการวัด 
-ผลการวัดสัญญาณที่ได้จาก Arduino จะถูกบันทึกเป็นรูปภาพแสดงหน้าจอของ Serial Monitor 
-ผลที่ได้จากการทดลองทั้งหมดได้ถูกแสดงในตารางที่ 1 ถึง 4
-
-
-
-
-
-
-
+Experimented by frequency input with a function generator at frequencies of 20 Hz, 200 Hz, 1 kHz and 2 kHz. Then measure the output signal with oscilloscope and Arduino to compare results. 
+Determine the number of random variant n = 15. To keep all raw data from a serial monitor. The results of all experiments are shown in Tables 1 to 4.
