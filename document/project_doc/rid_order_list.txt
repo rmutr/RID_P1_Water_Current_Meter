@@ -1,0 +1,35 @@
+E Loop
+Flash Drive
+
+
+
+Bread Board : WBU202 "WISH" 6 x 318.23 = 1,909.38
+https://www.es.co.th/detail.asp?Prod=015200061
+
+
+
+Robot : TurtleBot3 Burger "Open Robotics" 1 x 21,400.00
+https://inex.co.th/shop/robotics/turtlebot3-burger.html
+
+Battery Charger "iMax" 1 x 1,498.00
+https://inex.co.th/shop/robotics/imax-battery-charger.html
+
+Adapter : Raspberry Pi Official 1 x 450.00
+https://inex.co.th/shop/education-board/raspberry-pi-77/5-1v-2-5a-official-raspberry-pi-3.html
+
+
+
+Motor : 19:1 Metal Gearmotor 37Dx68L mm with 64 CPR Encoder "Pololu" 6 x 1,690.00 = 10,140.00
+https://thaieasyelec.com/products/robotics/motor/19-1-metal-gearmotor-37dx68l-mm-with-64-cpr-encoder-detail.html
+
+Raspberry Pi Zero W 1 x 850.00
+https://thaieasyelec.com/products/development-boards/raspberry-pi/raspberry-pi-zero-w-detail.html
+
+Converter : Pi Zero USB Stem "Sparkfun" 1 x 250.00 
+https://thaieasyelec.com/products/development-boards/raspberry-pi/pi-zero-usb-stem-detail.html
+
+LeafHAT I/O Kit 1 x 3,000.00
+https://thaieasyelec.com/products/development-boards/raspberry-pi/leafhat-i-o-kit-detail.html
+
+PCF8574 IO Expansion Board 5 x 100.00 = 500.00
+https://thaieasyelec.com/products/interface-modules/pcf8574-io-expansion-board-detail.html
