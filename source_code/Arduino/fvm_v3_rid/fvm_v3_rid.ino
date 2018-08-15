@@ -72,7 +72,8 @@ void loop() {
       lcd_0.setCursor(0, 1);
       lcd_0.print("                ");
 
-      state_ix++;
+      p_buff_ix = 40;
+      state_ix = 4;
       break;
 
     case 1:
@@ -96,7 +97,12 @@ void loop() {
         for (int bix = 0; bix < 40; bix++) {
           p_total += p_buff[bix];
         }
+      } else {
+        state_ix++;
       }
+      break;
+
+    case 4:
       break;
   }
 
