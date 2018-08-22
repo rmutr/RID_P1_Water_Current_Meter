@@ -1,0 +1,38 @@
+01 [ EPLL001 ] Pololu High-Power Motor Driver 18v15 = 2 x 1,450.00
+https://thaieasyelec.com/products/robotics/motor-driver-control/dc-gear-motor-driver-control/pololu-high-power-motor-driver-18v15-detail.html
+
+02 [ EPLL085 ] 19:1 Metal Gearmotor 37Dx68L mm with 64 CPR Encoder = 2 x 1,690.00
+https://thaieasyelec.com/products/robotics/motor/dc-gear-motor/19-1-metal-gearmotor-37dx68l-mm-with-64-cpr-encoder-detail.html
+
+03 [ EPLL042 ] Pololu 37D mm Metal Gearmotor Bracket Pair = 2 x 280.00
+https://thaieasyelec.com/products/robotics/mechanical-parts/pololu-37d-mm-metal-gearmotor-bracket-pair-detail.html
+
+04 [ EPLL038 ] Pololu Universal Aluminum Mounting Hub for 3mm Shaft, M3 Holes (2-Pack) = 2 x 195.00
+https://thaieasyelec.com/products/robotics/wheels-tracks-ball-casters/pololu-universal-aluminum-mounting-hub-for-3mm-shaft,-m3-holes-2-pack-detail.html
+
+05 [ EPLL039 ] Pololu Universal Aluminum Mounting Hub for 6mm Shaft, M3 Holes (2-Pack) = 2 x 290.00
+https://thaieasyelec.com/products/robotics/wheels-tracks-ball-casters/pololu-universal-aluminum-mounting-hub-for-6mm-shaft,-m3-holes-2-pack-detail.html
+
+06 [ EPLL019 ] Replacement 3pi Ball Caster with 1/2" Plastic Ball = 2 x 95.00
+https://thaieasyelec.com/products/robotics/wheels-tracks-ball-casters/replacement-3pi-ball-caster-with-1-2-plastic-ball-detail.html
+
+07 [ EPLL032 ] Pololu Wheel 60x8mm Pair - Black = 2 x 320.00
+https://thaieasyelec.com/products/robotics/wheels-tracks-ball-casters/pololu-wheel-60x8mm-pair-black-detail.html
+
+08 [ EPLL031 ] Pololu Wheel 90x10mm Pair - White = 2 x 350.00
+https://thaieasyelec.com/products/robotics/wheels-tracks-ball-casters/pololu-wheel-90x10mm-pair-white-detail.html
+
+09 [ EPLL029 ] Pololu Wheel 42x19mm Pair = 2 x 250.00
+https://thaieasyelec.com/products/robotics/wheels-tracks-ball-casters/pololu-wheel-42x19mm-pair-detail.html
+
+10 [ EPLL018 ] Pololu Wheel 32x7mm Pair - White = 2 x 220.00
+https://thaieasyelec.com/products/robotics/wheels-tracks-ball-casters/pololu-wheel-32x7mm-pair-white-detail.html
+
+11 [ ELNK050 ] Male - Male = 2 x 60.00
+https://thaieasyelec.com/prototyping/jumper-wires/20-cm-male-to-male-cable-jumper-wire-40-pins-detail.html
+
+12 [ ELNK051 ] Female - Female = 2 x 60.00
+https://thaieasyelec.com/prototyping/jumper-wires/20-cm-female-to-female-cable-jumper-wire-40-pins-detail.html
+
+13 [ ELNK054 ] Male - Female = 2 x 60.00
+https://thaieasyelec.com/prototyping/jumper-wires/20-cm-male-to-female-cable-jumper-wire-40-pins-detail.html
