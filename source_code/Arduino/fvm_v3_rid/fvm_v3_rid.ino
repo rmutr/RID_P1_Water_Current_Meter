@@ -11,7 +11,10 @@
 #define PIN_PULSEIN       13
 #define PIN_BUTTON_0      12
 
-LiquidCrystal_I2C lcd_0(0x27, 16, 2);  
+#define LCD_ADD_27        0x27
+#define LCD_ADD_3F        0x3F
+
+LiquidCrystal_I2C lcd_0(LCD_ADD_27, 16, 2);  
 
 char str_buff[200] = {0};
 unsigned long t_old;
